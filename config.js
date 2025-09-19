@@ -9,4 +9,5 @@ module.exports = {
   SESSION_ID: process.env.SESSION_ID || "Enter your session ID",
   OWNER_NUM: process.env.OWNER_NUM || "9470xxxxxxx",
   OWNER_NAME: process.env.OWNER_NAME || "ENTER YOUR NAME",
+  PRIFIX:process.env.PRIFIX || ".,/<>"
 };
